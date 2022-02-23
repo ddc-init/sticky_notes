@@ -1,5 +1,7 @@
 .DS_Store
 .gitignore~
+.idea/
+venv/
 
 # Esempio di regole da inserire in un file .gitignore
 # Con il carattere cancelletto si indica l'inizio di una riga di commento
